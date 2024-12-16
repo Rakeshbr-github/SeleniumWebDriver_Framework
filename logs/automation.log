@@ -1,0 +1,266 @@
+2024-12-13 10:18:15 INFO  TC001_Account_Registration_TestCase:21 - Clicked on MyAccount Link.. 
+2024-12-13 10:18:15 INFO  TC001_Account_Registration_TestCase:21 - Clicked on MyAccount Link.. 
+2024-12-13 10:18:25 INFO  TC001_Account_Registration_TestCase:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-13 10:18:35 INFO  TC001_Account_Registration_TestCase:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-15 10:02:38 DEBUG TestNG:82 - suiteXmlPath: "C:\eclipse-workspace\SeleniumWebDriver_Framework\master.xml"
+2024-12-15 10:02:38 INFO  Utils:112 - [TestNG] Running:
+  C:\eclipse-workspace\SeleniumWebDriver_Framework\master.xml
+
+2024-12-15 10:04:32 DEBUG TestNG:82 - suiteXmlPath: "C:\eclipse-workspace\SeleniumWebDriver_Framework\master.xml"
+2024-12-15 10:04:33 INFO  Utils:112 - [TestNG] Running:
+  C:\eclipse-workspace\SeleniumWebDriver_Framework\master.xml
+
+2024-12-15 10:04:38 INFO  TC001_Account_Registration_TestCase:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-15 10:04:38 DEBUG TC001_Account_Registration_TestCase:16 - This is a debug log message
+2024-12-15 10:04:38 INFO  TC001_Account_Registration_TestCase:21 - Clicked on MyAccount Link.. 
+2024-12-15 10:04:39 INFO  TC001_Account_Registration_TestCase:24 - Clicked on Register Link.. 
+2024-12-15 10:04:39 INFO  TC001_Account_Registration_TestCase:28 - Providing customer details...
+2024-12-15 10:04:40 INFO  TC001_Account_Registration_TestCase:42 - Validating expected message..
+2024-12-15 10:04:40 INFO  TC001_Account_Registration_TestCase:48 - Test passed
+2024-12-15 10:04:40 INFO  TC001_Account_Registration_TestCase:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-15 10:04:42 INFO  TC002_Login_Test_Case:16 - ****Starting TC002_Login_Test_Case****
+2024-12-15 10:04:44 INFO  TC002_Login_Test_Case:41 - ****Finished TC002_Login_Test_Case****
+2024-12-15 11:14:44 DEBUG TestNG:82 - suiteXmlPath: "C:\eclipse-workspace\SeleniumWebDriver_Framework\crossbrowser.xml"
+2024-12-15 11:14:44 INFO  Utils:112 - [TestNG] Running:
+  C:\eclipse-workspace\SeleniumWebDriver_Framework\crossbrowser.xml
+
+2024-12-15 11:14:49 INFO  TC001_Account_Registration_TestCase:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-15 11:14:49 DEBUG TC001_Account_Registration_TestCase:16 - This is a debug log message
+2024-12-15 11:14:50 INFO  TC001_Account_Registration_TestCase:21 - Clicked on MyAccount Link.. 
+2024-12-15 11:14:50 INFO  TC001_Account_Registration_TestCase:24 - Clicked on Register Link.. 
+2024-12-15 11:14:50 INFO  TC001_Account_Registration_TestCase:28 - Providing customer details...
+2024-12-15 11:14:52 INFO  TC001_Account_Registration_TestCase:42 - Validating expected message..
+2024-12-15 11:14:52 INFO  TC001_Account_Registration_TestCase:48 - Test passed
+2024-12-15 11:14:52 INFO  TC001_Account_Registration_TestCase:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-15 11:14:56 INFO  TC001_Account_Registration_TestCase:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-15 11:14:56 DEBUG TC001_Account_Registration_TestCase:16 - This is a debug log message
+2024-12-15 11:14:56 INFO  TC001_Account_Registration_TestCase:21 - Clicked on MyAccount Link.. 
+2024-12-15 11:14:56 INFO  TC001_Account_Registration_TestCase:24 - Clicked on Register Link.. 
+2024-12-15 11:14:56 INFO  TC001_Account_Registration_TestCase:28 - Providing customer details...
+2024-12-15 11:14:58 INFO  TC001_Account_Registration_TestCase:42 - Validating expected message..
+2024-12-15 11:14:58 INFO  TC001_Account_Registration_TestCase:48 - Test passed
+2024-12-15 11:14:58 INFO  TC001_Account_Registration_TestCase:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-15 11:16:14 DEBUG TestNG:82 - suiteXmlPath: "C:\eclipse-workspace\SeleniumWebDriver_Framework\crossbrowser.xml"
+2024-12-15 11:16:14 INFO  Utils:112 - [TestNG] Running:
+  C:\eclipse-workspace\SeleniumWebDriver_Framework\crossbrowser.xml
+
+2024-12-15 11:16:18 INFO  TC001_Account_Registration_TestCase:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-15 11:16:18 INFO  TC001_Account_Registration_TestCase:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-15 11:16:18 DEBUG TC001_Account_Registration_TestCase:16 - This is a debug log message
+2024-12-15 11:16:18 DEBUG TC001_Account_Registration_TestCase:16 - This is a debug log message
+2024-12-15 11:16:18 INFO  TC001_Account_Registration_TestCase:21 - Clicked on MyAccount Link.. 
+2024-12-15 11:16:18 INFO  TC001_Account_Registration_TestCase:21 - Clicked on MyAccount Link.. 
+2024-12-15 11:16:28 INFO  TC001_Account_Registration_TestCase:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-15 11:16:38 INFO  TC001_Account_Registration_TestCase:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-15 11:17:40 DEBUG TestNG:82 - suiteXmlPath: "C:\eclipse-workspace\SeleniumWebDriver_Framework\crossbrowser.xml"
+2024-12-15 11:17:41 INFO  Utils:112 - [TestNG] Running:
+  C:\eclipse-workspace\SeleniumWebDriver_Framework\crossbrowser.xml
+
+2024-12-15 11:17:45 INFO  TC001_Account_Registration_TestCase:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-15 11:17:45 INFO  TC001_Account_Registration_TestCase:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-15 11:17:45 DEBUG TC001_Account_Registration_TestCase:16 - This is a debug log message
+2024-12-15 11:17:45 DEBUG TC001_Account_Registration_TestCase:16 - This is a debug log message
+2024-12-15 11:17:45 INFO  TC001_Account_Registration_TestCase:21 - Clicked on MyAccount Link.. 
+2024-12-15 11:17:45 INFO  TC001_Account_Registration_TestCase:21 - Clicked on MyAccount Link.. 
+2024-12-15 11:17:52 INFO  TC001_Account_Registration_TestCase:24 - Clicked on Register Link.. 
+2024-12-15 11:17:52 INFO  TC001_Account_Registration_TestCase:28 - Providing customer details...
+2024-12-15 11:17:52 INFO  TC001_Account_Registration_TestCase:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-15 11:17:53 INFO  TC001_Account_Registration_TestCase:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-15 11:18:13 DEBUG TestNG:82 - suiteXmlPath: "C:\eclipse-workspace\SeleniumWebDriver_Framework\crossbrowser.xml"
+2024-12-15 11:18:13 INFO  Utils:112 - [TestNG] Running:
+  C:\eclipse-workspace\SeleniumWebDriver_Framework\crossbrowser.xml
+
+2024-12-15 11:18:17 INFO  TC001_Account_Registration_TestCase:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-15 11:18:17 INFO  TC001_Account_Registration_TestCase:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-15 11:18:17 DEBUG TC001_Account_Registration_TestCase:16 - This is a debug log message
+2024-12-15 11:18:17 DEBUG TC001_Account_Registration_TestCase:16 - This is a debug log message
+2024-12-15 11:18:17 INFO  TC001_Account_Registration_TestCase:21 - Clicked on MyAccount Link.. 
+2024-12-15 11:18:17 INFO  TC001_Account_Registration_TestCase:21 - Clicked on MyAccount Link.. 
+2024-12-15 11:18:27 INFO  TC001_Account_Registration_TestCase:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-15 11:18:32 INFO  TC001_Account_Registration_TestCase:24 - Clicked on Register Link.. 
+2024-12-15 11:18:32 INFO  TC001_Account_Registration_TestCase:28 - Providing customer details...
+2024-12-15 11:18:33 INFO  TC001_Account_Registration_TestCase:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-15 11:21:06 DEBUG TestNG:82 - suiteXmlPath: "C:\eclipse-workspace\SeleniumWebDriver_Framework\crossbrowser.xml"
+2024-12-15 11:21:06 INFO  Utils:112 - [TestNG] Running:
+  C:\eclipse-workspace\SeleniumWebDriver_Framework\crossbrowser.xml
+
+2024-12-15 11:21:09 INFO  TC001_Account_Registration_TestCase:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-15 11:21:09 INFO  TC001_Account_Registration_TestCase:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-15 11:21:09 DEBUG TC001_Account_Registration_TestCase:16 - This is a debug log message
+2024-12-15 11:21:09 DEBUG TC001_Account_Registration_TestCase:16 - This is a debug log message
+2024-12-15 11:21:10 INFO  TC001_Account_Registration_TestCase:21 - Clicked on MyAccount Link.. 
+2024-12-15 11:21:10 INFO  TC001_Account_Registration_TestCase:21 - Clicked on MyAccount Link.. 
+2024-12-15 11:21:20 INFO  TC001_Account_Registration_TestCase:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-15 11:21:29 INFO  TC001_Account_Registration_TestCase:24 - Clicked on Register Link.. 
+2024-12-15 11:21:29 INFO  TC001_Account_Registration_TestCase:28 - Providing customer details...
+2024-12-15 11:21:29 INFO  TC001_Account_Registration_TestCase:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-15 11:23:24 DEBUG TestNG:82 - suiteXmlPath: "C:\eclipse-workspace\SeleniumWebDriver_Framework\master.xml"
+2024-12-15 11:23:24 INFO  Utils:112 - [TestNG] Running:
+  C:\eclipse-workspace\SeleniumWebDriver_Framework\master.xml
+
+2024-12-15 11:23:26 INFO  TC001_Account_Registration_TestCase:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-15 11:23:26 DEBUG TC001_Account_Registration_TestCase:16 - This is a debug log message
+2024-12-15 11:23:27 INFO  TC001_Account_Registration_TestCase:21 - Clicked on MyAccount Link.. 
+2024-12-15 11:23:27 INFO  TC001_Account_Registration_TestCase:24 - Clicked on Register Link.. 
+2024-12-15 11:23:27 INFO  TC001_Account_Registration_TestCase:28 - Providing customer details...
+2024-12-15 11:23:28 INFO  TC001_Account_Registration_TestCase:42 - Validating expected message..
+2024-12-15 11:23:28 INFO  TC001_Account_Registration_TestCase:48 - Test passed
+2024-12-15 11:23:28 INFO  TC001_Account_Registration_TestCase:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-15 11:23:31 INFO  TC002_Login_Test_Case:16 - ****Starting TC002_Login_Test_Case****
+2024-12-15 11:23:32 INFO  TC002_Login_Test_Case:41 - ****Finished TC002_Login_Test_Case****
+2024-12-15 19:19:14 DEBUG TestNG:82 - suiteXmlPath: "C:\eclipse-workspace\SeleniumWebDriver_Framework\grid-docker.xml"
+2024-12-15 19:20:09 DEBUG TestNG:82 - suiteXmlPath: "C:\eclipse-workspace\SeleniumWebDriver_Framework\grid-docker.xml"
+2024-12-15 19:20:09 INFO  Utils:112 - [TestNG] Running:
+  C:\eclipse-workspace\SeleniumWebDriver_Framework\grid-docker.xml
+
+2024-12-15 19:20:09 INFO  TC001_Account_Registration_TestCase:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-15 19:20:09 DEBUG TC001_Account_Registration_TestCase:16 - This is a debug log message
+2024-12-15 19:20:09 INFO  TC001_Account_Registration_TestCase:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-15 19:20:38 DEBUG TestNG:82 - suiteXmlPath: "C:\eclipse-workspace\SeleniumWebDriver_Framework\grid-docker.xml"
+2024-12-15 19:20:39 INFO  Utils:112 - [TestNG] Running:
+  C:\eclipse-workspace\SeleniumWebDriver_Framework\grid-docker.xml
+
+2024-12-15 19:20:43 INFO  TC001_Account_Registration_TestCase:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-15 19:20:43 DEBUG TC001_Account_Registration_TestCase:16 - This is a debug log message
+2024-12-15 19:20:44 INFO  TC001_Account_Registration_TestCase:21 - Clicked on MyAccount Link.. 
+2024-12-15 19:20:44 INFO  TC001_Account_Registration_TestCase:24 - Clicked on Register Link.. 
+2024-12-15 19:20:44 INFO  TC001_Account_Registration_TestCase:28 - Providing customer details...
+2024-12-15 19:20:45 INFO  TC001_Account_Registration_TestCase:42 - Validating expected message..
+2024-12-15 19:20:45 INFO  TC001_Account_Registration_TestCase:48 - Test passed
+2024-12-15 19:20:45 INFO  TC001_Account_Registration_TestCase:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-15 19:20:49 INFO  TC002_Login_Test_Case:16 - ****Starting TC002_Login_Test_Case****
+2024-12-15 19:20:50 INFO  TC002_Login_Test_Case:41 - ****Finished TC002_Login_Test_Case****
+2024-12-15 19:21:24 DEBUG TestNG:82 - suiteXmlPath: "C:\eclipse-workspace\SeleniumWebDriver_Framework\grid-docker.xml"
+2024-12-15 19:21:25 INFO  Utils:112 - [TestNG] Running:
+  C:\eclipse-workspace\SeleniumWebDriver_Framework\grid-docker.xml
+
+2024-12-15 19:21:30 INFO  TC001_Account_Registration_TestCase:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-15 19:21:30 DEBUG TC001_Account_Registration_TestCase:16 - This is a debug log message
+2024-12-15 19:21:30 INFO  TC001_Account_Registration_TestCase:21 - Clicked on MyAccount Link.. 
+2024-12-15 19:21:30 INFO  TC001_Account_Registration_TestCase:24 - Clicked on Register Link.. 
+2024-12-15 19:21:30 INFO  TC001_Account_Registration_TestCase:28 - Providing customer details...
+2024-12-15 19:21:31 INFO  TC001_Account_Registration_TestCase:42 - Validating expected message..
+2024-12-15 19:21:31 INFO  TC001_Account_Registration_TestCase:48 - Test passed
+2024-12-15 19:21:31 INFO  TC001_Account_Registration_TestCase:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-15 19:21:35 INFO  TC002_Login_Test_Case:16 - ****Starting TC002_Login_Test_Case****
+2024-12-15 19:21:36 INFO  TC002_Login_Test_Case:41 - ****Finished TC002_Login_Test_Case****
+2024-12-15 19:21:57 DEBUG TestNG:82 - suiteXmlPath: "C:\eclipse-workspace\SeleniumWebDriver_Framework\grid-docker.xml"
+2024-12-15 19:21:57 INFO  Utils:112 - [TestNG] Running:
+  C:\eclipse-workspace\SeleniumWebDriver_Framework\grid-docker.xml
+
+2024-12-15 19:22:02 INFO  TC001_Account_Registration_TestCase:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-15 19:22:02 DEBUG TC001_Account_Registration_TestCase:16 - This is a debug log message
+2024-12-15 19:22:02 INFO  TC001_Account_Registration_TestCase:21 - Clicked on MyAccount Link.. 
+2024-12-15 19:22:03 INFO  TC001_Account_Registration_TestCase:24 - Clicked on Register Link.. 
+2024-12-15 19:22:03 INFO  TC001_Account_Registration_TestCase:28 - Providing customer details...
+2024-12-15 19:22:04 INFO  TC001_Account_Registration_TestCase:42 - Validating expected message..
+2024-12-15 19:22:04 INFO  TC001_Account_Registration_TestCase:48 - Test passed
+2024-12-15 19:22:04 INFO  TC001_Account_Registration_TestCase:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-15 19:22:09 INFO  TC002_Login_Test_Case:16 - ****Starting TC002_Login_Test_Case****
+2024-12-15 19:22:10 INFO  TC002_Login_Test_Case:41 - ****Finished TC002_Login_Test_Case****
+2024-12-15 19:22:35 DEBUG TestNG:82 - suiteXmlPath: "C:\eclipse-workspace\SeleniumWebDriver_Framework\grid-docker.xml"
+2024-12-15 19:22:35 INFO  Utils:112 - [TestNG] Running:
+  C:\eclipse-workspace\SeleniumWebDriver_Framework\grid-docker.xml
+
+2024-12-15 19:22:38 INFO  TC001_Account_Registration_TestCase:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-15 19:22:38 DEBUG TC001_Account_Registration_TestCase:16 - This is a debug log message
+2024-12-15 19:22:38 INFO  TC001_Account_Registration_TestCase:21 - Clicked on MyAccount Link.. 
+2024-12-15 19:22:38 INFO  TC001_Account_Registration_TestCase:24 - Clicked on Register Link.. 
+2024-12-15 19:22:38 INFO  TC001_Account_Registration_TestCase:28 - Providing customer details...
+2024-12-15 19:22:39 INFO  TC001_Account_Registration_TestCase:42 - Validating expected message..
+2024-12-15 19:22:40 INFO  TC001_Account_Registration_TestCase:48 - Test passed
+2024-12-15 19:22:40 INFO  TC001_Account_Registration_TestCase:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-15 19:22:41 INFO  TC002_Login_Test_Case:16 - ****Starting TC002_Login_Test_Case****
+2024-12-15 19:22:42 INFO  TC002_Login_Test_Case:41 - ****Finished TC002_Login_Test_Case****
+2024-12-15 19:22:47 INFO  TC001_Account_Registration_TestCase:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-15 19:22:47 DEBUG TC001_Account_Registration_TestCase:16 - This is a debug log message
+2024-12-15 19:22:47 INFO  TC001_Account_Registration_TestCase:21 - Clicked on MyAccount Link.. 
+2024-12-15 19:22:48 INFO  TC001_Account_Registration_TestCase:24 - Clicked on Register Link.. 
+2024-12-15 19:22:48 INFO  TC001_Account_Registration_TestCase:28 - Providing customer details...
+2024-12-15 19:22:49 INFO  TC001_Account_Registration_TestCase:42 - Validating expected message..
+2024-12-15 19:22:49 INFO  TC001_Account_Registration_TestCase:48 - Test passed
+2024-12-15 19:22:49 INFO  TC001_Account_Registration_TestCase:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-15 19:22:52 INFO  TC002_Login_Test_Case:16 - ****Starting TC002_Login_Test_Case****
+2024-12-15 19:22:53 INFO  TC002_Login_Test_Case:41 - ****Finished TC002_Login_Test_Case****
+2024-12-15 19:23:05 DEBUG TestNG:82 - suiteXmlPath: "C:\eclipse-workspace\SeleniumWebDriver_Framework\grid-docker.xml"
+2024-12-15 19:23:05 INFO  Utils:112 - [TestNG] Running:
+  C:\eclipse-workspace\SeleniumWebDriver_Framework\grid-docker.xml
+
+2024-12-15 19:23:07 INFO  TC001_Account_Registration_TestCase:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-15 19:23:07 DEBUG TC001_Account_Registration_TestCase:16 - This is a debug log message
+2024-12-15 19:23:07 INFO  TC001_Account_Registration_TestCase:21 - Clicked on MyAccount Link.. 
+2024-12-15 19:23:07 INFO  TC001_Account_Registration_TestCase:24 - Clicked on Register Link.. 
+2024-12-15 19:23:07 INFO  TC001_Account_Registration_TestCase:28 - Providing customer details...
+2024-12-15 19:23:08 INFO  TC001_Account_Registration_TestCase:42 - Validating expected message..
+2024-12-15 19:23:08 INFO  TC001_Account_Registration_TestCase:48 - Test passed
+2024-12-15 19:23:08 INFO  TC001_Account_Registration_TestCase:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-15 19:23:09 INFO  TC002_Login_Test_Case:16 - ****Starting TC002_Login_Test_Case****
+2024-12-15 19:23:11 INFO  TC002_Login_Test_Case:41 - ****Finished TC002_Login_Test_Case****
+2024-12-15 19:23:15 INFO  TC001_Account_Registration_TestCase:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-15 19:23:15 DEBUG TC001_Account_Registration_TestCase:16 - This is a debug log message
+2024-12-15 19:23:15 INFO  TC001_Account_Registration_TestCase:21 - Clicked on MyAccount Link.. 
+2024-12-15 19:23:16 INFO  TC001_Account_Registration_TestCase:24 - Clicked on Register Link.. 
+2024-12-15 19:23:16 INFO  TC001_Account_Registration_TestCase:28 - Providing customer details...
+2024-12-15 19:23:17 INFO  TC001_Account_Registration_TestCase:42 - Validating expected message..
+2024-12-15 19:23:17 INFO  TC001_Account_Registration_TestCase:48 - Test passed
+2024-12-15 19:23:17 INFO  TC001_Account_Registration_TestCase:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-15 19:23:20 INFO  TC002_Login_Test_Case:16 - ****Starting TC002_Login_Test_Case****
+2024-12-15 19:23:21 INFO  TC002_Login_Test_Case:41 - ****Finished TC002_Login_Test_Case****
+2024-12-15 19:49:17 DEBUG TestNG:82 - suiteXmlPath: "C:\eclipse-workspace\SeleniumWebDriver_Framework\grid-docker.xml"
+2024-12-15 19:49:17 INFO  Utils:112 - [TestNG] Running:
+  C:\eclipse-workspace\SeleniumWebDriver_Framework\grid-docker.xml
+
+2024-12-15 19:49:21 INFO  TC001_Account_Registration_TestCase:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-15 19:49:21 DEBUG TC001_Account_Registration_TestCase:16 - This is a debug log message
+2024-12-15 19:49:21 INFO  TC001_Account_Registration_TestCase:21 - Clicked on MyAccount Link.. 
+2024-12-15 19:49:21 INFO  TC001_Account_Registration_TestCase:24 - Clicked on Register Link.. 
+2024-12-15 19:49:21 INFO  TC001_Account_Registration_TestCase:28 - Providing customer details...
+2024-12-15 19:49:23 INFO  TC001_Account_Registration_TestCase:42 - Validating expected message..
+2024-12-15 19:49:23 INFO  TC001_Account_Registration_TestCase:48 - Test passed
+2024-12-15 19:49:23 INFO  TC001_Account_Registration_TestCase:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-15 19:49:24 INFO  TC002_Login_Test_Case:16 - ****Starting TC002_Login_Test_Case****
+2024-12-15 19:49:26 INFO  TC002_Login_Test_Case:41 - ****Finished TC002_Login_Test_Case****
+2024-12-15 19:49:32 INFO  TC001_Account_Registration_TestCase:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-15 19:49:32 DEBUG TC001_Account_Registration_TestCase:16 - This is a debug log message
+2024-12-15 19:49:32 INFO  TC001_Account_Registration_TestCase:21 - Clicked on MyAccount Link.. 
+2024-12-15 19:49:32 INFO  TC001_Account_Registration_TestCase:24 - Clicked on Register Link.. 
+2024-12-15 19:49:32 INFO  TC001_Account_Registration_TestCase:28 - Providing customer details...
+2024-12-15 19:49:33 INFO  TC001_Account_Registration_TestCase:42 - Validating expected message..
+2024-12-15 19:49:33 INFO  TC001_Account_Registration_TestCase:48 - Test passed
+2024-12-15 19:49:33 INFO  TC001_Account_Registration_TestCase:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-15 19:49:38 INFO  TC002_Login_Test_Case:16 - ****Starting TC002_Login_Test_Case****
+2024-12-15 19:49:40 INFO  TC002_Login_Test_Case:41 - ****Finished TC002_Login_Test_Case****
+2024-12-16 10:01:48 DEBUG TestNG:82 - suiteXmlPath: "C:\eclipse-workspace\SeleniumWebDriver_Framework\master.xml"
+2024-12-16 10:02:49 DEBUG TestNG:82 - suiteXmlPath: "C:\eclipse-workspace\SeleniumWebDriver_Framework\master.xml"
+2024-12-16 10:02:53 INFO  TC001_Account_Registration_TestCase:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-16 10:02:53 DEBUG TC001_Account_Registration_TestCase:16 - This is a debug log message
+2024-12-16 10:02:53 INFO  TC001_Account_Registration_TestCase:21 - Clicked on MyAccount Link.. 
+2024-12-16 10:02:54 INFO  TC001_Account_Registration_TestCase:24 - Clicked on Register Link.. 
+2024-12-16 10:02:54 INFO  TC001_Account_Registration_TestCase:28 - Providing customer details...
+2024-12-16 10:02:55 INFO  TC001_Account_Registration_TestCase:42 - Validating expected message..
+2024-12-16 10:02:55 INFO  TC001_Account_Registration_TestCase:48 - Test passed
+2024-12-16 10:02:55 INFO  TC001_Account_Registration_TestCase:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-16 10:02:57 INFO  TC002_Login_Test_Case:16 - ****Starting TC002_Login_Test_Case****
+2024-12-16 10:02:59 INFO  TC002_Login_Test_Case:41 - ****Finished TC002_Login_Test_Case****
+2024-12-16 10:17:33 DEBUG TestNG:82 - suiteXmlPath: "C:\eclipse-workspace\SeleniumWebDriver_Framework\master.xml"
+2024-12-16 10:17:36 INFO  TC001_Account_Registration_TestCase:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-16 10:17:36 DEBUG TC001_Account_Registration_TestCase:16 - This is a debug log message
+2024-12-16 10:17:36 INFO  TC001_Account_Registration_TestCase:21 - Clicked on MyAccount Link.. 
+2024-12-16 10:17:37 INFO  TC001_Account_Registration_TestCase:24 - Clicked on Register Link.. 
+2024-12-16 10:17:37 INFO  TC001_Account_Registration_TestCase:28 - Providing customer details...
+2024-12-16 10:17:38 INFO  TC001_Account_Registration_TestCase:42 - Validating expected message..
+2024-12-16 10:17:38 INFO  TC001_Account_Registration_TestCase:48 - Test passed
+2024-12-16 10:17:38 INFO  TC001_Account_Registration_TestCase:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-16 10:17:40 INFO  TC002_Login_Test_Case:16 - ****Starting TC002_Login_Test_Case****
+2024-12-16 10:17:42 INFO  TC002_Login_Test_Case:41 - ****Finished TC002_Login_Test_Case****
+2024-12-16 10:27:12 DEBUG TestNG:82 - suiteXmlPath: "C:\eclipse-workspace\SeleniumWebDriver_Framework\master.xml"
+2024-12-16 10:27:15 INFO  TC001_Account_Registration_TestCase:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-16 10:27:15 DEBUG TC001_Account_Registration_TestCase:16 - This is a debug log message
+2024-12-16 10:27:15 INFO  TC001_Account_Registration_TestCase:21 - Clicked on MyAccount Link.. 
+2024-12-16 10:27:15 INFO  TC001_Account_Registration_TestCase:24 - Clicked on Register Link.. 
+2024-12-16 10:27:15 INFO  TC001_Account_Registration_TestCase:28 - Providing customer details...
+2024-12-16 10:27:17 INFO  TC001_Account_Registration_TestCase:42 - Validating expected message..
+2024-12-16 10:27:17 INFO  TC001_Account_Registration_TestCase:48 - Test passed
+2024-12-16 10:27:17 INFO  TC001_Account_Registration_TestCase:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-16 10:27:18 INFO  TC002_Login_Test_Case:16 - ****Starting TC002_Login_Test_Case****
+2024-12-16 10:27:20 INFO  TC002_Login_Test_Case:41 - ****Finished TC002_Login_Test_Case****
