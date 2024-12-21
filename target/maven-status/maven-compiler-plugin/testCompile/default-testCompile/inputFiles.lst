@@ -8,6 +8,7 @@ C:\eclipse-workspace\SeleniumWebDriver_Framework\src\test\java\testbase\BaseClas
 C:\eclipse-workspace\SeleniumWebDriver_Framework\src\test\java\testCases\TC001_Account_Registration_TestCase.java
 C:\eclipse-workspace\SeleniumWebDriver_Framework\src\test\java\testCases\TC002_Login_Test_Case.java
 C:\eclipse-workspace\SeleniumWebDriver_Framework\src\test\java\testCases\TC003_Login_DDT.java
+C:\eclipse-workspace\SeleniumWebDriver_Framework\src\test\java\testCases\TC004_Search.java
 C:\eclipse-workspace\SeleniumWebDriver_Framework\src\test\java\utilities\DataProviders.java
 C:\eclipse-workspace\SeleniumWebDriver_Framework\src\test\java\utilities\ExcelUtility.java
 C:\eclipse-workspace\SeleniumWebDriver_Framework\src\test\java\utilities\ExtentReportManager.java
